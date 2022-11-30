@@ -1,5 +1,5 @@
 ---
-title: Olivia Olvera
+title: Home
 layout: home
 ---
 
